@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 211.66666 211.66667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="pumpkin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.97386896"
+     inkscape:cx="308.56307"
+     inkscape:cy="754.20825"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="2391"
+     inkscape:window-y="275"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.396875;paint-order:markers stroke fill"
+       d="M 84.221732 58.683239 C 83.128495 68.79568 82.847303 76.760863 88.840055 86.666544 C 88.840055 86.666544 28.254838 94.002099 21.462772 126.33234 C 11.338956 174.5217 47.582986 199.1854 97.26228 199.1434 C 135.56491 199.11104 154.35922 191.50871 168.44346 176.32205 C 180.99703 162.78587 188.99947 134.48971 171.43191 107.3149 C 154.04421 80.418311 100.25073 85.308487 100.25073 85.308487 C 97.717879 76.558644 96.779164 68.217152 98.077217 58.955057 C 92.732546 58.955059 89.562588 58.920313 84.221732 58.683239 z M 138.28665 106.22814 L 154.85928 126.06052 L 120.08363 124.97428 L 138.28665 106.22814 z M 71.996122 106.49944 L 90.470446 126.60416 L 53.793099 126.60416 L 71.996122 106.49944 z M 98.620853 140.73146 L 112.20504 140.73146 L 107.04308 149.96862 L 98.620853 140.73146 z M 64.388834 158.66267 C 74.16941 161.65117 81.776403 161.65111 81.776403 161.65111 L 82.048221 166.81307 L 89.111873 167.08489 L 88.568753 161.92293 C 88.568753 161.92293 97.580619 168.91571 120.89856 162.46605 L 133.66781 158.93448 C 133.66781 158.93448 129.86419 186.64587 102.42424 182.29895 C 74.984287 177.95202 64.388834 158.66267 64.388834 158.66267 z " />
+  </g>
+</svg>
